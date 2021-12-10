@@ -1,1 +1,1 @@
-# Clase-30-Desaparecer-un-objeto
+Clase #30 - 10/12/2021
